@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProjects\reference\RemindersGit\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\AndroidProjects\reference\RemindersGit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.1.1_fcc003de53b72caeb7d917124b0cf4414015a73b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\AndroidProjects\reference\RemindersGit\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.1.1_5a0eb58dd284528707685bedd936fc5a6795fbd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProjects\reference\RemindersGit\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\AndroidProjects\reference\RemindersGit\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.1.1_98a82c5d13b5dde305dde207c49a60599f733136\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProjects\reference\RemindersGit\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="424cf77c1594ca3471d6a055554776dc24719ab9">
+        <dex dex="D:\AndroidProjects\reference\RemindersGit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3f7fb17d0dede40ae58fbea7976bc89593a0d9d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProjects\reference\RemindersGit\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1bc0815939c6f85c4f183d04e4b3f2b82ec15644">
+        <dex dex="D:\AndroidProjects\reference\RemindersGit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_87953641259de737781b2257a2454f2fb9bd1596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidProjects\reference\RemindersGit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\AndroidProjects\reference\RemindersGit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.1.1_ddfa930b96230c9706b8e4fe23c55c52155163d9\classes.dex" />
+    </item>
+
+</items>
